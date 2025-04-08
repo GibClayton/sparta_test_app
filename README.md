@@ -1,3 +1,5 @@
+[![Node.js CI](https://github.com/GibClayton/sparta_test_app/actions/workflows/node.js.yml/badge.svg)](https://github.com/GibClayton/sparta_test_app/actions/workflows/node.js.yml)
+
 ## Sparta Node Sample App
 
 ## Description
